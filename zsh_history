@@ -1,0 +1,177 @@
+: 1675806770:0;ls
+: 1675806770:0;echo $HISTFILE
+: 1675806770:0;source zshrc
+: 1675806770:0;echo $HISTFILE
+: 1675806770:0;source zshrc
+: 1675806770:0;bash install_script.sh
+: 1675806770:0;ls
+: 1675806770:0;bash install_script.sh
+: 1675806770:0;shell
+: 1675806770:0;cat /etc/shells
+: 1675806770:0;l
+: 1675806770:0;cd Linux
+: 1675806770:0;cd ~'\
+
+: 1675806770:0;cd ~/LinuxConfig
+: 1675806770:0;source zsh
+: 1675806770:0;source zshrc
+: 1675806770:0;ls
+: 1675806770:0;source zshrc
+: 1675806770:0;cd oh-my-zsh-config
+: 1675806770:0;ls
+: 1675806770:0;cd cache
+: 1675806770:0;ls
+: 1675806770:0;ls 
+: 1675806770:0;ls -la
+: 1675806770:0;source zshrc
+: 1675806770:0;cd fonts
+: 1675806770:0;l
+: 1675806770:0;wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/Hack.zip
+: 1675806770:0;cd..
+: 1675806770:0;cd ..
+: 1675806770:0;unzip fonts/Hack.zip
+: 1675806770:0;rm -rf *.ttf
+: 1675806770:0;ls -la
+: 1675806770:0;rm -rf readme.md
+: 1675806770:0;cd LICE
+: 1675806770:0;rm -rf LICENSE.md
+: 1675806770:0;unzip fonts/Hack.zip fonts
+: 1675806770:0;unzip fonts/Hack.zip fonts/
+: 1675806770:0;unzip fonts/Hack.zip fonts/Hack.zip
+: 1675806770:0;cd fonts
+: 1675806770:0;ls
+: 1675806770:0;wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Hack.zip
+: 1675806770:0;wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Inconsolata.zip
+: 1675806770:0;wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/JetBrainsMono.zip
+: 1675806770:0;rm -rf JetBrainsMono.zip
+: 1675806770:0;source zshrc
+: 1675806770:0;ls
+: 1675806770:0;bash install_fonts.sh
+: 1675806770:0;source ../zshrc
+: 1675806770:0;zsh install_fonts.sh
+: 1675806770:0;bash install_fonts.sh 
+: 1675806770:0;bash
+: 1675806770:0;bash install_fonts.sh
+: 1675806770:0;ls
+: 1675806770:0;cd ..
+: 1675806770:0;source zsh
+: 1675806770:0;source zshrc
+: 1675806770:0;ls
+: 1675806770:0;bash
+: 1675806770:0;exit
+: 1675806770:0;exit
+: 1675806770:0;ls
+: 1675806770:0;cd fonts
+: 1675806770:0;bash install_fonts.sh 
+: 1675806770:0;bash install_fonts.sh 
+: 1675806770:0;exit
+: 1675806770:0;exit
+: 1675806770:0;source zshrc
+: 1675806770:0;cd ..
+: 1675806770:0;cd LinuxConfig
+: 1675806770:0;source zshrc
+: 1675806770:0;ls
+: 1675806770:0;ls -la
+: 1675806770:0;source zshrc
+: 1675806770:0;cd fonts
+: 1675806770:0;ls
+: 1675806770:0;bash install_fonts.sh
+: 1675806770:0;cd fonts
+: 1675806770:0;bash install_fonts.sh
+: 1675806770:0;cd ~
+: 1675806770:0;ls
+: 1675806770:0;ls -l
+: 1675806770:0;ls -la
+: 1675806770:0;exit
+: 1675806770:0;cd ..
+: 1675806770:0;cd ..
+: 1675806770:0;ls -la
+: 1675806770:0;vim zshenv
+: 1675806770:0;vim .zshenv
+: 1675806770:0;rm -rf .zshenv
+: 1675806770:0;cd LinuxConfig/
+: 1675806770:0;cd fonts
+: 1675806770:0;bash install_fonts.sh 
+: 1675806770:0;cd ..
+: 1675806770:0;ls
+: 1675806770:0;touch vimrc
+: 1675806770:0;mkdir vim
+: 1675806770:0;cd fonts
+: 1675806770:0;rm -rf *.ttf
+: 1675806770:0;rm -rf *.otf
+: 1675806770:0;rm -rf *.txt
+: 1675806770:0;rm -rf *.md
+: 1675806770:0;rm -rf misc
+: 1675806770:0;cd ..
+: 1675806770:0;cd ..
+: 1675806770:0;ls -la
+: 1675806770:0;cd LinuxConfig/
+: 1675806770:0;ls
+: 1675806770:0;ls -s zshrc ~/.zshrc
+: 1675806770:0;ln -s zshrc ~/.zshrc
+: 1675806770:0;zsh
+: 1675806770:0;exit
+: 1675806770:0;bash
+: 1675806770:0;exit
+: 1675806770:0;zsh
+: 1675806770:0;exit
+: 1675806770:0;echo "export ZDOTDIR=~/LinuxConfig" > ~/.zshenv
+: 1675806770:0;zsh
+: 1675806770:0;exit
+: 1675806770:0;exit
+: 1675806770:0;source zshrc
+: 1675806770:0;ls
+: 1675806770:0;cd ~
+: 1675806770:0;ls -la
+: 1675806770:0;cd .config
+: 1675806770:0;ls
+: 1675806770:0;cd ..
+: 1675806770:0;ls
+: 1675806770:0;ls -la
+: 1675806770:0;vim
+: 1675806770:0;ln -s vimrc ~/.vimrc
+: 1675806770:0;ls -la
+: 1675806770:0;vim
+: 1675806770:0;cd LinuxConfig
+: 1675806770:0;ls
+: 1675806770:0;source zshrc
+: 1675806770:0;vim
+: 1675806770:0;curl -o molokai.vim https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim\
+
+: 1675806770:0;source zshrc
+: 1675806770:0;vim
+: 1675806770:0;source zshrc
+: 1675806770:0;vim
+: 1675806770:0;source zshrc
+: 1675806770:0;vim
+: 1675806770:0;cd plugged
+: 1675806770:0;cd vim/plugged
+: 1675806770:0;cd YouCompleteMe
+: 1675806770:0;ls
+: 1675806770:0;./install.py
+: 1675806770:0;sudo pacman -S cmake
+: 1675806770:0;./install.py
+: 1675806770:0;vim
+: 1675806770:0;vim mater.cpp
+: 1675806770:0;ls
+: 1675806770:0;cd ..
+: 1675806770:0;source zshrc
+: 1675806770:0;vim
+: 1675806770:0;source zshrc
+: 1675806770:0;vim
+: 1675806770:0;ln -s ~/LinuxConfig/zshrc ~/.zshrc
+: 1675806770:0;zsh
+: 1675806770:0;q
+: 1675806770:0;q
+: 1675806770:0;exit
+: 1675806519:0;ls -la
+: 1675806521:0;cd ..
+: 1675806523:0;ls -la
+: 1675806549:0;vim .zshrc
+: 1675806733:0;cd LinuxConfig
+: 1675806734:0;ls
+: 1675806746:0;git clone https://github.com/vinceliuice/orchis-theme.git
+: 1675806762:0;cd orchis-theme
+: 1675806766:0;rm -rf .git
+: 1675806768:0;ls
+: 1675806770:0;exit

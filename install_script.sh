@@ -1,11 +1,26 @@
 # Install orchis-theme
 cd orchis-theme && bash install.sh && cd ..
 
+# Install zshell
+sudo pacman -Sy
+sudo pacman -S zsh # Arch Linux command 
+sudo pacman -S lsd # Terminal color ls changer
+sudo pacman -S cmake
+
 # Install oh-my-zsh
-# sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 bash oh-my-zsh-install.sh
 
-sudo apt install zsh
+# Launch zsh 
+chsh -s $(which zsh)
+zsh
 
 # Install powerlevel10k over ohmyzsh
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/PersonalConfig/powerlevel10k && echo 'source ~/PersonalConfig powerlevel10k/powerlevel10k.zsh-theme' >> ~/PersonalConfig/zshrc
+source zshrc
+echo "export ZDOTDIR=~/LinuxConfig" > ~/.zshenv
+
+ln -s ~/LinuxConfig/zshrc ~/.zshrc 
+
+# Install ycmd in vim
+# After running :PlugInstall:
+# ./vim/plugged/YouCompleteMe/install.py
+# :color fogbell
