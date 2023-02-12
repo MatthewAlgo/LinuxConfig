@@ -27,3 +27,10 @@ trizen -S bumblebee-status polybar dmenu-git
 # ./vim/plugged/YouCompleteMe/install.py
 ~/.vim/plugged/YouCompleteMe/install.py --clangd-completer --go-completer --rust-completer --ts-completer
 # :color fogbell
+
+# Install trizen (AUR) if on Arch
+git clone https://aur.archlinux.org/trizen.git
+cd trizen && makepkg -si && cd ..
+
+git clone https://aur.archlinux.org/bumblebee-status.git
+cd bumblebee-status && makepkg -si && cd ..
