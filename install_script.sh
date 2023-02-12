@@ -5,6 +5,16 @@ sudo pacman -Sy
 sudo pacman -S zsh # Arch Linux command 
 sudo pacman -S lsd # Terminal color ls changer
 
+# Make zsh your default shell
+chsh -s /bin/zsh
+
+# Install oh-my-zsh (already installed mostly) and p10k theme
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# Here .zsh is already written with my config and this script has already been "Executed"
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+
 # Required for ycmd
 sudo pacman -S cmake go
 
