@@ -34,3 +34,6 @@ cd trizen && makepkg -si && cd ..
 
 git clone https://aur.archlinux.org/bumblebee-status.git
 cd bumblebee-status && makepkg -si && cd ..
+
+# Install xautolock -> To automatically lock the screen after a certain amount of time
+sudo pacman -S xautolock
