@@ -37,3 +37,6 @@ cd bumblebee-status && makepkg -si && cd ..
 
 # Install xautolock -> To automatically lock the screen after a certain amount of time
 sudo pacman -S xautolock
+
+# Install i3-gaps-rounded-git for rounded window corners
+trizen -S i3-gaps-rounded-git
