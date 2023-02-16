@@ -40,3 +40,5 @@ sudo pacman -S xautolock
 
 # Install i3-gaps-rounded-git for rounded window corners
 trizen -S i3-gaps-rounded-git
+trizen -S rofi # Mod+D menu
+trizen -S i3blocks # Bottom status i3
