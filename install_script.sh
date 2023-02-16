@@ -42,3 +42,10 @@ sudo pacman -S xautolock
 trizen -S i3-gaps-rounded-git
 trizen -S rofi # Mod+D menu
 trizen -S i3blocks # Bottom status i3
+
+trizen -S termsyn-font
+trizen -S material-icons-git
+
+# Fonts needed for polybar
+trizen -S ttf-fantasque-sans-mono
+trizen -S ttf-material-design-iconic-font
